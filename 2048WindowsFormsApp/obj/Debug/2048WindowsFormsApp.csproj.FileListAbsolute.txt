@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\JosefDzeranov\OnlineCourse5Stream\2048WindowsFormsApp\bin\Debug\2048WindowsFormsApp.exe.config
+C:\Users\User\source\repos\JosefDzeranov\OnlineCourse5Stream\2048WindowsFormsApp\bin\Debug\2048WindowsFormsApp.exe
+C:\Users\User\source\repos\JosefDzeranov\OnlineCourse5Stream\2048WindowsFormsApp\bin\Debug\2048WindowsFormsApp.pdb
+C:\Users\User\source\repos\JosefDzeranov\OnlineCourse5Stream\2048WindowsFormsApp\obj\Debug\_2048WindowsFormsApp.MainForm.resources
+C:\Users\User\source\repos\JosefDzeranov\OnlineCourse5Stream\2048WindowsFormsApp\obj\Debug\_2048WindowsFormsApp.Properties.Resources.resources
+C:\Users\User\source\repos\JosefDzeranov\OnlineCourse5Stream\2048WindowsFormsApp\obj\Debug\2048WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\User\source\repos\JosefDzeranov\OnlineCourse5Stream\2048WindowsFormsApp\obj\Debug\2048WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\JosefDzeranov\OnlineCourse5Stream\2048WindowsFormsApp\obj\Debug\2048WindowsFormsApp.exe
+C:\Users\User\source\repos\JosefDzeranov\OnlineCourse5Stream\2048WindowsFormsApp\obj\Debug\2048WindowsFormsApp.pdb
+C:\Users\User\source\repos\JosefDzeranov\OnlineCourse5Stream\2048WindowsFormsApp\obj\Debug\_2048WindowsFormsApp.GameTypeForm.resources
+C:\Users\User\source\repos\JosefDzeranov\OnlineCourse5Stream\2048WindowsFormsApp\obj\Debug\2048WindowsFormsApp.csprojAssemblyReference.cache
+C:\Users\User\source\repos\JosefDzeranov\OnlineCourse5Stream\2048WindowsFormsApp\obj\Debug\_2048WindowsFormsApp.UserForm.resources
